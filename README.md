@@ -9,7 +9,10 @@ A link collection for all papers which have been reviewed in the paper "GANs for
 | Staingan: Stain style transfer for digital histological images                                                        | Shaban et al. (2018)     | https://github.com/xtarx/StainGAN                                                                       |
 | Synthesizing filamentary structured images with gans                                                                  | Zhao et al. (2017)       | https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/filaStructObjs/Synthesis/downloads.html |
 | Towards virtual h&e staining of hyperspectral lung histology images using conditional generative adversarial networks | Bayramoglu et al. (2017) | http://www.ee.oulu.fi/~nyalcinb/papers/iccv2017/index.html                                              |
-|                                                                                                                       |                          |                                                                                                         |
+| Medical image synthesis with context-aware generative adversarial networks                                            | Dong et al. (2017)       | https://github.com/ginobilinie/medSynthesis                                                             |
+| End-to-end adversarial retinal image synthesis                                                                        | Costa et al. (2017)      | https://github.com/costapt/adversarial_retinal_synthesis                                                |
+| Synthetic medical images from dual generative adversarial networks                                                    | Guibas et al. (2017)     | https://github.com/tejpalv/synthetic-medical-images                                                     |
+| Freehand ultrasound image simulation with spatially-conditioned generative adversarial networks                       | Hu et al. (2017)         | https://niftynet.readthedocs.io/en/dev/_modules/niftynet/network/simulator_gan.html                     |
 
 
 ## Category: Segmentation
