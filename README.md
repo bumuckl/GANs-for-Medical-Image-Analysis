@@ -36,17 +36,12 @@ A link collection for all papers which have been reviewed in the paper "GANs for
 |-------------------------------------------------------------------------------------------|--------------------|-------------------------------------|
 | Compressed sensing mri reconstruction with cyclic loss in generative adversarial networks | Quan et al. (2017) | https://github.com/tmquan/RefineGAN |                                                              |               |                                   |
 
-## Category: Classification
+## Category: Classification & Detection
 
 | Paper                                             | Authors                   | Code                                   |
 |---------------------------------------------------|---------------------------|----------------------------------------|
-|                                                   |                           |                                        |
-
-## Category: Detection
-
-| Paper                                             | Authors                   | Code                                   |
-|---------------------------------------------------|---------------------------|----------------------------------------|
-| Visual feature attribution using wasserstein gans | Baumgartner et al. (2018) | https://github.com/baumgach/vagan-code |                              |
+| Visual feature attribution using wasserstein gans | Baumgartner et al. (2018) | https://github.com/baumgach/vagan-code |
+| Unsupervised anomaly detection with generative adversarial networks to guide marker discovery | Schlegl et al. (2017) | https://github.com/tSchlegl/f-AnoGAN |
 
 ## Category: Registration
 
